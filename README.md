@@ -1,3 +1,3 @@
 # PhD Thesis
 
-This file is too large for GitHub, prodided link to downlaod directly: here
+This file is too large for GitHub, provided link to downlaod directly: here
